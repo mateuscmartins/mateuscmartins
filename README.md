@@ -1,5 +1,5 @@
 I’m @mateuscmartins.
-I’m interested in web development and graphic design and nowdays I'm working as Bussines AnaLyst using Power BI as tool to develop dashboards.
+I’m interested in web development and graphic design and nowdays I'm working as Bussines Analyst using Power BI as tool to develop dashboards.
 I’m currently learning Javascript to frontend and backend (Node.js and express).
 Because of the college I have some familiarity with Python and PHP.
 To contact me, send me an email to mateus.cmartins@hotmail.com.
